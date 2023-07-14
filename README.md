@@ -1,10 +1,10 @@
-# SREP-Community-Patches
+# SREP-Patches
 
 
-A List of community patches to use with SmokelessRuntimeEfiPatcher
+A List of BIOS unlocking patches to use with SmokelessRuntimeEFIPatcher
 
-| Patch Note | Target | Link | Author | 
-|:-:|:-:|:-:|:-:|
-| BIOS Unlock | Legion < 2022  (InsydeH2O) | [Legion Bios Unlock](Configs/Legion_Insyde_BiosUnlock.cfg) | SmokelessCPU |
-| BIOS Unlock | Legion  2022  (InsydeH2O)  | [Legion 2022 Bios Unlock](Configs/Legion_2022_Insyde_BiosUnlock.cfg) | SmokelessCPU |
-| BIOS Unlock | PREDATOR TRITON 300     | [PREDATOR TRITON 300 Bios Unlock](Configs/Predator_Triton_300_BiosUnlock.cfg) | nonkerdoob |
+| Target | Link | BIOS versions tested on | 
+|:-:|:-:|:-:|
+| Acer Nitro 515-55(517-52)  (InsydeH2O) | [AN515-55 & AN517-52](Configs/AN515-55(517-52)_Insyde_BiosUnlock.cfg) | 2.06 |
+| Acer Nitro 515-56(517-53)  (InsydeH2O) | [AN515-56 & AN517-53](Configs/AN515-56(517-53)_Insyde_BiosUnlock.cfg) | 1.08 |
+| Acer Nitro 515-58(517-55)  (InsydeH2O) | [AN515-58 & AN517-55](Configs/AN515-58(517-55)_Insyde_BiosUnlock.cfg) | 2.05, 2.09 |
