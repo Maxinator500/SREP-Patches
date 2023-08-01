@@ -9,8 +9,9 @@ A List of BIOS unlocking patches to use with SmokelessRuntimeEFIPatcher
 | Acer Nitro 515-56(517-53)  (InsydeH2O) | [Download RAW](Configs/AN515-56(517-53)_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Nitro 515-58(517-55)  (InsydeH2O) | [Download RAW](Configs/AN515-58(517-55)_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Predator Helios 315-54(317-55) and Predator Triton 315-53  (InsydeH2O) | [Download RAW](Configs/PH315-54(317-55)&PT315-53_Insyde_BiosUnlock.cfg) | [Yes](https://winraid.level1techs.com/t/acer-ph315-54-jr-bios-update-and-vbios-extract/95997/7) |
-| Acer Nitro 16-41(AN17-41)  (InsydeH2O) | [Download RAW](AN16-41(AN17-41)_Insyde_BiosUnlock.cfg) | Not yet |
+| Acer Predator Helios 317-54  (InsydeH2O) | [Download RAW](Configs/PH317-54_Insyde_BiosUnlock.cfg) | Not yet |
+| Acer Nitro 16-41(17-41)  (InsydeH2O) | [Download RAW](Configs/AN16-41(17-41)_Insyde_BiosUnlock.cfg) | Not yet |
 
-Some config files **may have minimal cross-compatibility** with other devices, but note that such ones would always unlock **less settings** than designed.
+Although some config files **may have minimal cross-compatibility** with other devices, note that such ones would always unlock **less settings** than designed.
 
 Unlocking these Acer' models will never be possible by SREP until a new version of the tool is released: AN515 series 3x and 4x, PT315-51, PT515-52SE, PT715-51, PT917-71.
