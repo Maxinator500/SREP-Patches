@@ -11,6 +11,7 @@ A List of BIOS unlocking patches to use with SmokelessRuntimeEFIPatcher
 | Acer Predator Helios 315-54(317-55) and Predator Triton 315-53  (InsydeH2O) | [Download RAW](Configs/PH315-54(317-55)&PT315-53_Insyde_BiosUnlock.cfg) | [Yes](https://winraid.level1techs.com/t/acer-ph315-54-jr-bios-update-and-vbios-extract/95997/7) |
 | Acer Predator Helios 317-54  (InsydeH2O) | [Download RAW](Configs/PH317-54_Insyde_BiosUnlock.cfg) | Not yet |
 | Acer Nitro 16-41(17-41)  (InsydeH2O) | [Download RAW](Configs/AN16-41(17-41)_Insyde_BiosUnlock.cfg) | Not yet |
+| Acer Nitro 16-51(17-51)  (InsydeH2O) | [Download RAW](Configs/AN16-51(17-51)_Insyde_BiosUnlock.cfg) | Not yet |
 
 Although some config files **may have minimal cross-compatibility** with other devices, note that such ones would always unlock **less settings** than designed.
 
