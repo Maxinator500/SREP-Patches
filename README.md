@@ -8,7 +8,7 @@ A List of BIOS unlocking patches to use with SmokelessRuntimeEFIPatcher
 | Acer Nitro 515-55(517-52) and Predator Helios 315-53  (InsydeH2O) | [Download RAW](Configs/AN515-55(517-52)&PH315-53_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Nitro 515-56(517-53)  (InsydeH2O) | [Download RAW](Configs/AN515-56(517-53)_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Nitro 515-58(517-55)  (InsydeH2O) | [Download RAW](Configs/AN515-58(517-55)_Insyde_BiosUnlock.cfg) | Yes |
-| Acer Predator Helios 315-54(317-55) and Predator Triton 315-53  (InsydeH2O) | [Download RAW](Configs/PH315-54(317-55)&PT315-53_Insyde_BiosUnlock.cfg) | [Yes](https://winraid.level1techs.com/t/acer-ph315-54-jr-bios-update-and-vbios-extract/95997/7) |
+| Acer Nitro 515-57(517-54), Predator Helios 315-54(317-55)<br/> and Predator Triton 315-53  (InsydeH2O) | [Download RAW](Configs/AN515-57(517-54)&PH315-54(317-55)&PT315-53_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Predator Helios 315-55(315-55SE, 317-56) (InsydeH2O) | [Download RAW](Configs/PH315-55(315-55SE,%20317-56)_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Predator Helios 317-54  (InsydeH2O) | [Download RAW](Configs/PH317-54_Insyde_BiosUnlock.cfg) | Not yet |
 | Acer Nitro 16-41(17-41)  (InsydeH2O) | [Download RAW](Configs/AN16-41(17-41)_Insyde_BiosUnlock.cfg) | Not yet |
