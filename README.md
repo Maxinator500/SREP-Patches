@@ -5,15 +5,17 @@ A List of BIOS unlocking patches to use with SmokelessRuntimeEFIPatcher
 # [How to](https://github.com/SmokelessCPUv2/SmokelessRuntimeEFIPatcher#how-to-use-it)
 | Target | Link | Tested working? |
 |:-:|:-:|:-:|
-| Acer Aspire 315-58(514-54, 515-56)  (InsydeH2O) | [Download RAW](Configs/AA315-58(514-54,%20515-56)_Insyde_BiosUnlock.cfg) | Not yet |
+| Acer Aspire 315-58(514-54, 515-56)  (InsydeH2O) | [Download RAW](Configs/AA315-58(514-54,%20515-56)_Insyde_BiosUnlock.cfg) | Yes |
+| Acer Nitro 515-45  (InsydeH2O) | [Download RAW](Configs/AN515-45_Insyde_BiosUnlock.cfg) | Not yet |
+| Acer Nitro 515-46(515-47)  (InsydeH2O) | [Download RAW](Configs/AN515-46(515-47)_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Nitro 515-55(517-52) and Predator Helios 315-53  (InsydeH2O) | [Download RAW](Configs/AN515-55(517-52)&PH315-53_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Nitro 515-56(517-53)  (InsydeH2O) | [Download RAW](Configs/AN515-56(517-53)_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Nitro 515-58(517-55)  (InsydeH2O) | [Download RAW](Configs/AN515-58(517-55)_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Nitro 515-57(517-54), Predator Helios 315-54(317-55)<br/> and Predator Triton 315-53  (InsydeH2O) | [Download RAW](Configs/AN515-57(517-54)&PH315-54(317-55)&PT315-53_Insyde_BiosUnlock.cfg) | Yes |
-| Acer Predator Helios 315-55(315-55SE, 317-56) (InsydeH2O) | [Download RAW](Configs/PH315-55(315-55SE,%20317-56)_Insyde_BiosUnlock.cfg) | Yes |
-| Acer Predator Helios 317-54  (InsydeH2O) | [Download RAW](Configs/PH317-54_Insyde_BiosUnlock.cfg) | Not yet |
 | Acer Nitro 16-41(17-41)  (InsydeH2O) | [Download RAW](Configs/AN16-41(17-41)_Insyde_BiosUnlock.cfg) | Not yet |
 | Acer Nitro 16-51(17-51)  (InsydeH2O) | [Download RAW](Configs/AN16-51(17-51)_Insyde_BiosUnlock.cfg) | Not yet |
+| Acer Predator Helios 315-55(315-55SE, 317-56) (InsydeH2O) | [Download RAW](Configs/PH315-55(315-55SE,%20317-56)_Insyde_BiosUnlock.cfg) | Yes |
+| Acer Predator Helios 317-54  (InsydeH2O) | [Download RAW](Configs/PH317-54_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Predator Helios 16-71(18-71) and Predator Triton X 17-71  (InsydeH2O) | [Download RAW](Configs/PH16-71(18-71)&PTX17-71_Insyde_BiosUnlock.cfg) | Yes |
 
 Although some config files **may have minimal cross-compatibility** with other devices, note that such ones would always unlock **less settings** than designed.
