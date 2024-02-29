@@ -6,6 +6,7 @@ A List of BIOS unlocking patches to use with SmokelessRuntimeEFIPatcher
 | Target | Link | Tested working? |
 |:-:|:-:|:-:|
 | Acer Aspire 315-58(514-54, 515-56) and Extensa 215-54  (InsydeH2O) | [Download RAW](Configs/AA315-58(514-54,%20515-56)&EX215-54_Insyde_BiosUnlock.cfg) | Yes |
+| Acer Nitro 515-44  (InsydeH2O) | [Download RAW](Configs/AN515-44_Insyde_BiosUnlock.cfg) | Not yet |
 | Acer Nitro 515-45  (InsydeH2O) | [Download RAW](Configs/AN515-45_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Nitro 515-46(515-47)  (InsydeH2O) | [Download RAW](Configs/AN515-46(515-47)_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Nitro 515-55(517-52) and Predator Helios 315-53  (InsydeH2O) | [Download RAW](Configs/AN515-55(517-52)&PH315-53_Insyde_BiosUnlock.cfg) | Yes |
@@ -18,7 +19,7 @@ A List of BIOS unlocking patches to use with SmokelessRuntimeEFIPatcher
 | Acer Predator Helios 317-54  (InsydeH2O) | [Download RAW](Configs/PH317-54_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Predator Helios 16-71(18-71) and Predator Triton X 17-71  (InsydeH2O) | [Download RAW](Configs/PH16-71(18-71)&PTX17-71_Insyde_BiosUnlock.cfg) | Yes |
 | Acer Predator Helios Neo 16-71  (InsydeH2O) | [Download RAW](Configs/PHN16-71_Insyde_BiosUnlock.cfg) | Yes |
-| Lenovo Legion Intel and AMD  (InsydeH2O) | [Download RAW](Configs/Lenovo%20Metro%20Display%20Engine_Insyde_BiosUnlock.cfg) | Not yet |
+| Lenovo Legion Intel and AMD  (InsydeH2O) | [Download RAW](Configs/Lenovo%20Metro%20Display%20Engine_Insyde_BiosUnlock.cfg) | Yes |
 
 Although some config files **may have minimal cross-compatibility** with other devices, note that such ones would always unlock **less settings** than designed.
 
