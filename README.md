@@ -6,7 +6,7 @@
 
 | Target | Link |
 |:-|:-:|
-| All Acer laptops since 2020  (InsydeH2O) | [Download RAW](NewConfigs/Acer/Acer_202x.zip) |
+| All Acer laptops since 2020  (InsydeH2O) | [Download ZIP](NewConfigs/Acer/Acer_202x.zip) |
 | HP 081F5(255 G5 and 15-BA)  (InsydeH2O Rev. 3) | [Download RAW](NewConfigs/HP/HP_081F5(255G5&15-BA).cfg) |
 
 </details>
@@ -104,7 +104,7 @@
 | Acer TravelMate P 614-53  (InsydeH2O) | [Download RAW](Configs/Acer/TMP614-53_Insyde_BiosUnlock.cfg) |
 | Lenovo Legion Intel and AMD  (InsydeH2O) | [Download RAW](Configs/Acer/Lenovo%20Metro%20Display%20Engine_Insyde_BiosUnlock.cfg) |
 
-Not going to be made: AA115-22, AA515-46, AA515-53, AA715-41, AN515-3x, AN515-54, AN715-52(AN715-75) (FH5VF board), AN715-74, CN516-72, CN715-72, EX214-51&SF314-58, EX215-22, PT315-51, !PT515-52, PT715-51, PT917-71, SF114-33, SF514-56, SFX14-51G.
+Not going to be made: AA115-22, AA515-46, AA515-53, AA715-41, AN515-3x, AN515-54, AN715-52(AN715-75) (FH5VF board), AN715-74, CN516-72, CN715-72, EX214-51&SF314-58, EX215-22, PT315-51, PT515-52, PT715-51, PT917-71, SF114-33, SF514-56, SFX14-51G.
 
 Although some config files **may have minimal cross-compatibility** with other devices, such would always unlock **less settings** than config is designed to.
 
