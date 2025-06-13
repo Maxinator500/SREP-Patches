@@ -1,12 +1,12 @@
 # SREP-Patches
 ### $~~~~$[USAGE](https://github.com/cygwynd/SmokelessRuntimeEFIPatcher#how-to-use-it)
-<details><summary><strong>A List of BIOS unlocking patches to use with SREP 0.1.8</strong></summary>
+<details><summary><strong>A List of BIOS unlocking patches to use with SREP 0.1.9</strong></summary>
 
 ### My SREP fork : $~~~~$[SREP-RUS](https://github.com/Maxinator500/SmokelessRuntimeEFIPatcher-RUS/releases)
 
 | Target | Link |
 |:-|:-:|
-| All Acer laptops since 2020  (InsydeH2O) | [Download ZIP](NewConfigs/Acer/Acer_202x.zip) |
+| Acer laptops since 2020  (InsydeH2O) | [Download ZIP](NewConfigs/Acer/Acer_202x.zip) |
 | HP 081F5(255 G5 and 15-BA)  (InsydeH2O Rev. 3) | [Download RAW](NewConfigs/HP/HP_081F5(255G5&15-BA).cfg) |
 
 </details>
@@ -62,6 +62,7 @@
 | Acer Predator Helios 3D 15-71  (InsydeH2O) | [Download RAW](Configs/Acer/PH3D15-71_Insyde_BiosUnlock.cfg) |
 | Acer Predator Helios 16-71(18-71) and Predator Triton X 17-71  (InsydeH2O) | [Download RAW](Configs/Acer/PH16-71(18-71)&PTX17-71_Insyde_BiosUnlock.cfg) |
 | Acer Predator Helios 18-72  (InsydeH2O) | [Download RAW](Configs/Acer/PH18-72_Insyde_BiosUnlock.cfg) |
+| Acer Predator Helios 18-73  (InsydeH2O) | [Download RAW](Configs/Acer/PH18-73_Insyde_BiosUnlock.cfg) |
 | Acer Predator Helios Neo 14-51  (InsydeH2O) | [Download RAW](Configs/Acer/PHN14-51_Insyde_BiosUnlock.cfg) |
 | Acer Predator Helios Neo 16-71  (InsydeH2O) | [Download RAW](Configs/Acer/PHN16-71_Insyde_BiosUnlock.cfg) |
 | Acer Predator Helios Neo 16-72(18-71)  (InsydeH2O) | [Download RAW](Configs/Acer/PHN16-72(18-71)_Insyde_BiosUnlock.cfg) |
