@@ -1,14 +1,15 @@
 # SREP-Patches
-### $~~~~$[USAGE](https://github.com/cygwynd/SmokelessRuntimeEFIPatcher#how-to-use-it)
-<details><summary><strong>A List of BIOS unlocking patches to use with SREP 0.2.0</strong></summary>
+### $~~~~$[USAGE](https://github.com/Maxinator500/SmokelessRuntimeEFIPatcher-RUS#%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C)
+<details><summary><strong>A List of BIOS unlocking patches to use with SREP 0.2.x</strong></summary>
 
 ### My SREP fork : $~~~~$[SREP-RUS](https://github.com/Maxinator500/SmokelessRuntimeEFIPatcher-RUS/releases)
 
 | Target | Link |
 |:-|:-:|
 | Acer laptops since 2020  (InsydeH2O) | [Download RAW](NewConfigs/Acer/Acer_202x.cfg) |
-| Clevo laptops w/ NH&NP boards  (InsydeH2O) | [Download RAW](NewConfigs/Clevo/Clevo_NH&NP.cfg) |
+| Clevo laptops w/ NH, NP, PD, V boards  (InsydeH2O) | [Download RAW](NewConfigs/Clevo/Clevo_NH&NP.cfg) |
 | HP 081F5(255 G5 and 15-BA)  (InsydeH2O Rev. 3) | [Download RAW](NewConfigs/HP/HP_081F5(255G5&15-BA).cfg) |
+| Lenovo Legion Intel and AMD Update 1  (InsydeH2O) | [Download RAW](NewConfigs/Lenovo/mouse_escapes_cat_1.cfg) |
 
 </details>
 
@@ -52,13 +53,13 @@
 | Acer ConceptD 316-73  (InsydeH2O) | [Download RAW](Configs/Acer/CN316-73_Insyde_BiosUnlock.cfg) |
 | Acer ConceptD 516-73  (InsydeH2O) | [Download RAW](Configs/Acer/CN516-73_Insyde_BiosUnlock.cfg) |
 | Acer Enduro `Lite` 314-51  (InsydeH2O) | [Download RAW](Configs/Acer/Enduro%20Lite%20EUN314-51_Insyde_BiosUnlock.cfg) |
-| Acer Extensa 214-52 (InsydeH2O) | [Download RAW](Configs/Acer/EX214-52_Insyde_BiosUnlock.cfg) |
-| Acer Extensa 214-53(215-55) (InsydeH2O) | [Download RAW](Configs/Acer/EX214-53(215-55)_Insyde_BiosUnlock.cfg) |
-| Acer Extensa 215-32 (InsydeH2O) | [Download RAW](Configs/Acer/EX215-32_Insyde_BiosUnlock.cfg) |
-| Acer Extensa 215-53 (InsydeH2O) | [Download RAW](Configs/Acer/EX215-53_Insyde_BiosUnlock.cfg) |
+| Acer Extensa 214-52  (InsydeH2O) | [Download RAW](Configs/Acer/EX214-52_Insyde_BiosUnlock.cfg) |
+| Acer Extensa 214-53(215-55)  (InsydeH2O) | [Download RAW](Configs/Acer/EX214-53(215-55)_Insyde_BiosUnlock.cfg) |
+| Acer Extensa 215-32  (InsydeH2O) | [Download RAW](Configs/Acer/EX215-32_Insyde_BiosUnlock.cfg) |
+| Acer Extensa 215-53  (InsydeH2O) | [Download RAW](Configs/Acer/EX215-53_Insyde_BiosUnlock.cfg) |
 | Acer Nitro 16-41(17-41)  (InsydeH2O) | [Download RAW](Configs/Acer/AN16-41(17-41)_Insyde_BiosUnlock.cfg) |
 | Acer Nitro 16-51(17-51)  (InsydeH2O) | [Download RAW](Configs/Acer/AN16-51(17-51)_Insyde_BiosUnlock.cfg) |
-| Acer Predator Helios 315-55(315-55SE, 317-56) (InsydeH2O) | [Download RAW](Configs/Acer/PH315-55(315-55SE,%20317-56)_Insyde_BiosUnlock.cfg) |
+| Acer Predator Helios 315-55(315-55SE, 317-56)  (InsydeH2O) | [Download RAW](Configs/Acer/PH315-55(315-55SE,%20317-56)_Insyde_BiosUnlock.cfg) |
 | Acer Predator Helios 317-54  (InsydeH2O) | [Download RAW](Configs/Acer/PH317-54_Insyde_BiosUnlock.cfg) |
 | Acer Predator Helios 3D 15-71  (InsydeH2O) | [Download RAW](Configs/Acer/PH3D15-71_Insyde_BiosUnlock.cfg) |
 | Acer Predator Helios 16-71(18-71) and Predator Triton X 17-71  (InsydeH2O) | [Download RAW](Configs/Acer/PH16-71(18-71)&PTX17-71_Insyde_BiosUnlock.cfg) |
@@ -104,11 +105,8 @@
 | Acer TravelMate P 414-51  (InsydeH2O) | [Download RAW](Configs/Acer/TMP414-51_Insyde_BiosUnlock.cfg) |
 | Acer TravelMate P 414RNA-52(614-52)  (InsydeH2O) | [Download RAW](Configs/Acer/TMP414RNA-52(614-52)_Insyde_BiosUnlock.cfg) |
 | Acer TravelMate P 614-53  (InsydeH2O) | [Download RAW](Configs/Acer/TMP614-53_Insyde_BiosUnlock.cfg) |
-| Lenovo Legion Intel and AMD  (InsydeH2O) | [Download RAW](Configs/Acer/Lenovo%20Metro%20Display%20Engine_Insyde_BiosUnlock.cfg) |
+| Lenovo Legion Intel and AMD 2022  (InsydeH2O) | [Download RAW](Configs/Acer/Lenovo%20Metro%20Display%20Engine_Insyde_BiosUnlock.cfg) |
 
 Although some config files **may have minimal cross-compatibility** with other devices, such would always unlock **less settings** than config is designed to.
-
-Missing your device model? -Try looking in SREP 0.2.0 list.
-</br>There I uploaded an archive with unified config for Acer laptops. For both having a config in 014 list and ones which don't, e.g. AA314-23, AA314-36(315-510), AA317-55(AA3SP14-31)&EX215-33, SF14-71, SF314-44&SFG14-41.
 
 </details>
