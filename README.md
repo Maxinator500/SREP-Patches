@@ -1,19 +1,18 @@
 # SREP-Patches
 ### $~~~~$[USAGE](https://github.com/Maxinator500/SmokelessRuntimeEFIPatcher-RUS#%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C)
-<details><summary><strong>A List of BIOS unlocking patches to use with SREP 0.2.x</strong></summary>
+<details><summary><strong>A List of BIOS unlocking patches to use with SREP <ins>0.2.4</ins></strong></strong></summary>
 
 ### My SREP fork : $~~~~$[SREP-RUS](https://github.com/Maxinator500/SmokelessRuntimeEFIPatcher-RUS/releases)
 
 | Target | Link |
 |:-|:-:|
-| Acer laptops since 2020  (InsydeH2O) | [Download RAW](NewConfigs/Acer/Acer_202x.cfg) |
-| Clevo laptops w/ NH, NP, PD, V boards  (InsydeH2O) | [Download RAW](NewConfigs/Clevo/Clevo_NH&NP.cfg) |
-| HP 081F5(255 G5 and 15-BA)  (InsydeH2O Rev. 3) | [Download RAW](NewConfigs/HP/HP_081F5(255G5&15-BA).cfg) |
-| Lenovo Legion Intel and AMD Update 1  (InsydeH2O) | [Download RAW](NewConfigs/Lenovo/mouse_escapes_cat_1.cfg) |
+| Update 2 Lenovo Legion Intel and AMD  (InsydeH2O) | [Download RAW](NewConfigs/Lenovo/Lenovo-Insyde-Update2_ENG.cfg) |
+| Update 1 Clevo laptops w/ NH, NP, PD, V boards  (InsydeH2O) | [Download RAW](NewConfigs/Clevo/Clevo-Insyde-Update1_ENG_NOCON.cfg) |
+| Update 1 HP 081F5(255 G5 and 15-BA)  (InsydeH2O Rev. 3) | [Download RAW](NewConfigs/HP/HP-081F5(255G5&15-BA)-Update1_ENG.cfg) |
 
 </details>
 
-<details><summary><strong>A List of BIOS unlocking patches to use with SREP 0.1.4 (unmaintained)</strong></summary>
+<details><summary><strong>A List of BIOS unlocking patches to use with SREP <ins>0.1.4</ins> (unmaintained)</strong></summary>
   
 ### SREP 0.1.4c : $~~~~$[EFI/BOOT/BOOTX64.efi](SREP/0.1.4c/BOOTX64.efi)
 
