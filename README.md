@@ -6,9 +6,9 @@
 
 | Target | Link |
 |:-|:-:|
-| Update 2 Lenovo Legion Intel and AMD  (InsydeH2O) | [Download RAW](NewConfigs/Lenovo/Lenovo-Insyde-Update2_ENG.cfg) |
-| Update 1 Clevo laptops w/ NH, NP, PD, V boards  (InsydeH2O) | [Download RAW](NewConfigs/Clevo/Clevo-Insyde-Update1_ENG_NOCON.cfg) |
-| Update 1 HP 081F5(255 G5 and 15-BA)  (InsydeH2O Rev. 3) | [Download RAW](NewConfigs/HP/HP-081F5(255G5&15-BA)-Update1_ENG.cfg) |
+| Acer laptops since 2020 Intel  (InsydeH2O) | [Download RAW](NewConfigs/Acer/Acer-202x-Intel-Insyde_ENG.cfg) |
+| Update 3 Lenovo Legion Intel and AMD  (InsydeH2O) | [Download RAW](NewConfigs/Lenovo/Lenovo-Insyde-Update3_ENG.cfg) |
+| Update 2 Clevo laptops w/ NH, NP, PD, V boards  (InsydeH2O) | [Download RAW](NewConfigs/Clevo/Clevo-Insyde-Update2_ENG_NOCON.cfg) |
 
 </details>
 
