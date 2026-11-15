@@ -1,13 +1,13 @@
 # SREP-Patches
 ### $~~~~$[USAGE](https://github.com/Maxinator500/SmokelessRuntimeEFIPatcher-RUS#%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C)
-<details><summary><strong>A List of BIOS unlocking patches to use with SREP <ins>0.2.4</ins></strong></strong></summary>
+<details><summary><strong>A List of BIOS unlocking patches to use with SREP <ins>0.2.5</ins></strong></strong></summary>
 
 ### My SREP fork : $~~~~$[SREP-RUS](https://github.com/Maxinator500/SmokelessRuntimeEFIPatcher-RUS/releases)
 
 | Target | Link |
 |:-|:-:|
-| Acer laptops since 2020 Intel  (InsydeH2O) | [Download RAW](NewConfigs/Acer/Acer-202x-Intel-Insyde_ENG.cfg) |
-| Update 3 Lenovo Legion Intel and AMD  (InsydeH2O) | [Download RAW](NewConfigs/Lenovo/Lenovo-Insyde-Update3_ENG.cfg) |
+| Update 1 Acer laptops since 2020 Intel  (InsydeH2O) | [Download RAW](NewConfigs/Acer/Acer-202x-Intel-Insyde-Update1_ENG.cfg) |
+| Update 4 Lenovo Legion pre-2026 Intel and AMD  (InsydeH2O) | [Download RAW](NewConfigs/Lenovo/Lenovo2025-Insyde-Update4_ENG.cfg) |
 | Update 2 Clevo laptops w/ NH, NP, PD, V boards  (InsydeH2O) | [Download RAW](NewConfigs/Clevo/Clevo-Insyde-Update2_ENG_NOCON.cfg) |
 
 </details>
